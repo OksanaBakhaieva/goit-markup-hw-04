@@ -365,7 +365,6 @@ img {
     transform: translateY(0);
 }
 
-
 .item {
     display: block;
     border: 1px solid #e7e9fc;
@@ -406,4 +405,16 @@ footer {
     letter-spacing: 0.02em;
     text-align: left;
     width: 264px;
+}
+
+.social-media {
+
+}
+
+.social-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;
+    font-weight: 500;
+    margin-bottom: 16px;
 }
